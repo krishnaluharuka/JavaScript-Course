@@ -1,0 +1,21 @@
+
+body{
+    background-color: black;
+}
+
+.bi-lightbulb{
+    font-size: 500px;
+    color: white;
+}
+
+.bi-lightbulb-fill{
+    font-size : 500px;
+    color: yellow;
+} */
+
+
+h1{
+    position: absolute;
+    margin-top: 250px;
+    color: white;
+}
