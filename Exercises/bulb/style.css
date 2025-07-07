@@ -4,18 +4,32 @@ body{
 }
 
 .bi-lightbulb{
-    font-size: 500px;
+    font-size: 400px;
     color: white;
 }
 
 .bi-lightbulb-fill{
-    font-size : 500px;
-    color: yellow;
-} */
+    font-size : 400px;
+    /* color: yellow; */
+    /* text-shadow: 20px 20px 50px  yellow; */
+    text-shadow: 50px 50px 80px rgb(243, 240, 78), -50px -50px 80px rgb(243, 240, 78);
+    -webkit-text-stroke: 20px black;
+  color: rgb(255, 253, 110);
 
 
-h1{
-    position: absolute;
-    margin-top: 250px;
-    color: white;
+  /* color: rgb(134, 131, 131); */
+}
+
+
+
+
+h2{
+    /* position: absolute; */
+    /* top: 350px; */
+    /* right: 250px; */
+    word-spacing: 5px;
+    color: black;
+    text-align: center;
+    line-height: 1.5;
+    font-family: cursive;
 }
